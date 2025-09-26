@@ -8,3 +8,13 @@ C:\Users\jtalm\source\repos\ADPagamentosItens.JTA\ADPagamentosItens.JTA\obj\Debu
 C:\Users\jtalm\source\repos\ADPagamentosItens.JTA\ADPagamentosItens.JTA\obj\Debug\ADPagamentosItens.JTA.pdb
 C:\Users\jtalm\source\repos\ADPagamentosItens.JTA\ADPagamentosItens.JTA\bin\Debug\BasBE100.dll
 C:\Users\jtalm\source\repos\ADPagamentosItens.JTA\ADPagamentosItens.JTA\bin\Debug\ITesBS100.dll
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\bin\Debug\ADPagamentosItens.JTA.dll
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\bin\Debug\ADPagamentosItens.JTA.pdb
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\bin\Debug\BasBE100.dll
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\bin\Debug\ITesBS100.dll
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\bin\Debug\TesBE100.dll
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\obj\Debug\ADPagamentosItens.JTA.csproj.AssemblyReference.cache
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\obj\Debug\ADPagamentosItens.JTA.csproj.CoreCompileInputs.cache
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\obj\Debug\ADPagame.17EDAFD8.Up2Date
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\obj\Debug\ADPagamentosItens.JTA.dll
+C:\Users\jpval\Desktop\ADPagamentosItens.JTA\ADPagamentosItens.JTA\obj\Debug\ADPagamentosItens.JTA.pdb
