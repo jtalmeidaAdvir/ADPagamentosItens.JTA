@@ -17,10 +17,18 @@ namespace ADPagamentosItens.JTA.PayablesReceivables
         public override void AntesDeEditarLigacaoBancos(TesBEDocumentoTesouraria objBE, ExtensibilityEventArgs e)
         {
             // Documento de origem (liquidação)
+            var tipo = DocumentoOrigem.GetType();
+     
+            if (tipo.ToString() == "VndBE100.VndBEDocumentoVenda") {
+            
+            return;
+            }
+
+
             CctBE100.CctBEDocumentoLiq CabLiq = DocumentoOrigem;
             if (CabLiq == null)
                 return;
-
+      
             var idHistorico = CabLiq.LinhasLiquidacao.GetEdita(1).IDHistorico;
             var tipoEntidade = CabLiq.TipoEntidade.ToString();
 
